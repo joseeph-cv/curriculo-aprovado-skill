@@ -44,7 +44,7 @@ NOME COMPLETO
 Cidade - UF | (DD) 9XXXX - XXXX
 email@exemplo.com | linkedin.com/in/perfil
 ```
-Endereço: só cidade e UF (CEP opcional).
+Endereço: só cidade e UF. Se a pessoa quiser o CEP, use `05000 - 000: São Paulo - SP | (11) 9XXXX - XXXX`.
 
 ### Resumo
 Um parágrafo em 1ª pessoa ("Possuo", "Atuo", "Busco"), de 4 a 6 linhas:
@@ -54,9 +54,9 @@ Um parágrafo em 1ª pessoa ("Possuo", "Atuo", "Busco"), de 4 a 6 linhas:
 4. Fecha com o objetivo: o tipo de oportunidade buscada e como pretende agregar valor.
 
 ### Habilidades e Competências
-6 bullets (no Word, em 2 colunas). Cada bullet tem 2 ou 3 termos separados por vírgula e termina em ponto. Ferramentas podem levar o nível.
+6 bullets (no Word, em 2 colunas), **em ordem alfabética**. Cada bullet tem 2 ou 3 termos separados por vírgula, também em ordem alfabética, e termina em ponto. Ferramentas podem levar o nível e são escritas com a grafia oficial (Power BI, SAP, Office 365). Não use adjetivos soltos como "Resiliência" ou "Proatividade": habilidade é o que dá para provar.
 ```
-• Orçamento e Forecast, Análise de Indicadores.
+• Análise de Indicadores, Orçamento e Forecast.
 • Excel - Avançado, Power BI, SQL.
 ```
 
@@ -66,10 +66,12 @@ Da mais recente para a mais antiga.
 Cargo: mês aaaa - atualmente
 Empresa
 ```
-Meses por extenso e em minúsculas ("janeiro 2024 - março 2025"). **De 4 a 6 atividades por cargo**, padronizadas.
+Variação aceita, para quem tem muitos cargos curtos: `Cargo | Empresa: mês aaaa - mês aaaa` em uma linha só.
+
+Meses por extenso e em minúsculas ("janeiro 2024 - março 2025"). **De 3 a 6 atividades por cargo**, com mais atividades no cargo atual ou mais relevante para a vaga. **Dentro de cada cargo, as atividades ficam em ordem alfabética** (Acompanhamento → Elaboração → Gestão → Monitoramento).
 
 Cada atividade é um STAR condensado em uma frase:
-- **Começa com um substantivo de ação:** Análise, Gestão, Coordenação, Elaboração, Desenvolvimento, Implementação, Monitoramento, Atendimento, Controle, Negociação.
+- **Começa com um substantivo de ação:** Análise, Gestão, Coordenação, Elaboração, Desenvolvimento, Implementação, Monitoramento, Atendimento, Controle, Negociação. Nunca com verbo no infinitivo ("Intermediar", "Realizar") e nunca em 1ª pessoa ("consegui", "fui responsável"): a 1ª pessoa fica só no resumo.
 - **Traz escopo e números:** quantas unidades, clientes, atendimentos por dia, valores (R$), volumes, prazos.
 - **Cita a ferramenta ou método** usado, quando houver.
 - **Fecha com a finalidade ou o resultado:** "com foco em...", "para apoiar decisões estratégicas", "reduzindo o prazo em 20%".
@@ -77,6 +79,8 @@ Cada atividade é um STAR condensado em uma frase:
 
 Exemplo (fictício):
 > • Elaboração de relatórios gerenciais semanais no Power BI para 14 unidades, apoiando a diretoria na definição de metas regionais;
+
+**Antes de escrever, leia o currículo completo de exemplo em [docs/EXEMPLO_CURRICULO.md](docs/EXEMPLO_CURRICULO.md).** Ele mostra o tom, o tamanho das frases e o nível de detalhe esperados. Siga esse exemplo de perto.
 
 ### Seções opcionais
 TCC, dissertação, intercâmbio ou projetos relevantes, logo depois da experiência, quando ajudarem na vaga.
@@ -89,10 +93,10 @@ Instituição
 Formação em andamento: sempre com o mês e o ano previstos de conclusão.
 
 ### Idiomas
-`Inglês Intermediário - B1` (use o nível do Quadro Europeu quando a pessoa souber).
+`Inglês Intermediário - B1`: sempre com o nome do idioma, o nível por extenso e o nível do Quadro Europeu.
 
 ### Certificações
-`Nome do curso - Instituição`, uma por linha, as mais relevantes para a vaga primeiro.
+`Nome do curso - Instituição`, uma por linha, as mais relevantes para a vaga primeiro. Separe sempre com hífen simples ( - ), nunca com travessão ( – ).
 
 ## Passo 5 - Ajustar ao nível
 
@@ -106,7 +110,7 @@ Formação em andamento: sempre com o mês e o ano previstos de conclusão.
 2. A lista de palavras-chave da vaga que foram usadas (e as que ficaram de fora por falta de experiência).
 3. Os trechos entre [colchetes] que a pessoa precisa confirmar.
 
-Se a ferramenta permitir gerar arquivos, entregue um `.docx` com a formatação descrita em [docs/FORMATACAO_WORD.md](docs/FORMATACAO_WORD.md), com o nome `Nome Completo - Currículo Atualizado.docx`.
+Se a ferramenta permitir gerar arquivos, entregue um `.docx` com a formatação descrita em [docs/FORMATACAO_WORD.md](docs/FORMATACAO_WORD.md), com o nome `Nome Completo - Currículo Atualizado.docx`. O jeito mais fiel é partir do arquivo [modelo/Modelo - Currículo Aprovado.docx](modelo/) e trocar o texto, mantendo a formatação. Se não der para gerar arquivo, diga à pessoa para abrir esse modelo no Word e colar o texto nele.
 
 ## Checklist final
 
@@ -114,6 +118,10 @@ Se a ferramenta permitir gerar arquivos, entregue um `.docx` com a formatação 
 - [ ] Sem foto, idade, estado civil, religião, documentos ou endereço completo.
 - [ ] Resumo em 1ª pessoa, com gancho concreto e objetivo no final.
 - [ ] 6 bullets de habilidades com as palavras-chave da vaga escritas igual ao anúncio.
-- [ ] 4 a 6 atividades por cargo, começando com substantivo de ação e com números.
+- [ ] Habilidades e atividades de cada cargo em ordem alfabética.
+- [ ] 3 a 6 atividades por cargo, começando com substantivo de ação (sem verbo no infinitivo nem 1ª pessoa) e com números.
+- [ ] Ponto e vírgula no fim de cada atividade e ponto final na última do cargo.
 - [ ] Datas com mês por extenso; formação em andamento com previsão de conclusão.
-- [ ] Uma coluna, sem tabelas, ícones ou gráficos (legível para ATS).
+- [ ] Ferramentas com a grafia oficial; sem erros de digitação no texto, no e-mail e no link do LinkedIn.
+- [ ] Hífen simples ( - ) como separador em todo o currículo.
+- [ ] Uma coluna, sem tabelas, ícones ou gráficos (legível para ATS); de preferência 1 página.

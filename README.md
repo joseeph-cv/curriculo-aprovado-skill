@@ -28,14 +28,16 @@ Depois é só pedir: *"Adapta meu currículo para esta vaga"* e colar o currícu
 Em **Configurações > Capacidades > Skills**, envie esta pasta compactada em `.zip`.
 
 ### ChatGPT, Gemini e outras IAs
-Abra o arquivo [SKILL.md](SKILL.md), copie todo o conteúdo e cole como instrução (nas instruções personalizadas, em um GPT/Gem próprio ou no começo da conversa). Depois envie seu currículo e a vaga.
+Abra o arquivo [SKILL.md](SKILL.md), copie todo o conteúdo e cole como instrução (nas instruções personalizadas, em um GPT/Gem próprio ou no começo da conversa). Envie também o arquivo [docs/EXEMPLO_CURRICULO.md](docs/EXEMPLO_CURRICULO.md), para a IA ver um exemplo pronto. Depois envie seu currículo e a vaga. No final, abra o [modelo em Word](modelo/) e cole o texto nele para ficar com a formatação certa.
 
 ## Arquivos
 
 | Arquivo | Para que serve |
 |---|---|
 | [SKILL.md](SKILL.md) | As instruções da skill (o "cérebro") |
+| [docs/EXEMPLO_CURRICULO.md](docs/EXEMPLO_CURRICULO.md) | Um currículo completo no padrão, com uma pessoa fictícia, e por que ele funciona |
 | [docs/FORMATACAO_WORD.md](docs/FORMATACAO_WORD.md) | Como formatar o currículo no Word |
+| [modelo/](modelo/) | O mesmo exemplo pronto em Word (.docx) e PDF: abra, troque o texto e mantenha a formatação |
 
 ## Privacidade
 
